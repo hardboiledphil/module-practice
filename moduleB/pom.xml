@@ -16,7 +16,6 @@
             <groupId>dev.phil</groupId>
             <artifactId>moduleA</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
